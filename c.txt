@@ -1,0 +1,5 @@
+line #2: 蜘蛛
+line #4: 穷
+line #5: ba
+line #6: 総
+line #8: ここ違う
