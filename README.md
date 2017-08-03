@@ -1,8 +1,8 @@
 # diff
-Output file difference, linux command "diff" enhancement.
+Output file difference, linux command ```diff``` enhancement.
 
-Use Levenshtein to output minimum difference between line modifications output from linux command "diff".
+Use Levenshtein to output minimum difference between line modifications output from linux command ```diff```.
 
-Use "python diff.py (original file address) (new file address) (output file address)" to execute.
+Use ```python diff.py (original file address) (new file address) (output file address)``` to execute.
 
-Try "python diff.py a.txt b.txt c.txt" to see sample effect.
+Try ```python diff.py a.txt b.txt c.txt``` to see sample effect.
